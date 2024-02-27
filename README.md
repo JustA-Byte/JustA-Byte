@@ -1,4 +1,4 @@
-# Hey, I'm David, welcome to my Cybersecurity Portfolio
+# Hey, I'm David, Welcome to my Cybersecurity Portfolio
 <a href="https://www.linkedin.com/in/daviddoescyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am changing career into Cybersecurity, with a serious passion for technology and safety.
