@@ -1,26 +1,27 @@
-# Hello, I'm David
+# Hey, I'm David
 <a href="https://www.linkedin.com/in/daviddoescyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am changing career into Cybersecurity, with a serious passion for technology and safety.
 
 ## Objective
-My desire to understand how stuff works and a natural protective instinct has driven a desire to work in Cybersecurity. I am now eager to transition into this field, specifically targeting Defensive Blue Team Analyst and GRC Roles.
+My desire to understand how stuff works and a natural protective instinct has driven a desire to work in Cybersecurity. I'm now eager to transition into this field, specifically targeting Defensive Blue Team Analyst and GRC Roles.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Utilisation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Suspicious File Investigation and Analysis         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Suspicious File Investigation and Analysis         | Suspicious Files Lab|
+| Incident Response Planning and Execution      | Incident Response Lab|
+| Risk Assessment, Audit and Asset Management     | Risk Lab|
+| Scripting and Automation for Log Analysis | Python & SQL Lab|
+| Security Policy Authoring for Access & Authenticator Management | Policy Writing Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -56,3 +57,7 @@ My desire to understand how stuff works and a natural protective instinct has dr
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Suspicious Files Lab
+- Risk Lab
+- Python & SQL Lab
+- Policy Writing Lab
