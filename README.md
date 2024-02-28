@@ -10,7 +10,7 @@ My desire to understand how stuff works and a natural protective instinct has dr
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | SIEM Utilisation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
