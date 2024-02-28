@@ -12,13 +12,13 @@ My desire to understand how stuff works and a natural protective instinct has dr
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-| SIEM Utilisation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Suspicious File Investigation and Analysis         | Suspicious Files Lab|
-| Incident Response Planning and Execution      | Incident Response Lab|
+| SIEM Utilisation and Log Analysis          | <a href="https://google.com">Detection Labs</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Labs</a>|
+| Suspicious File Investigation and Analysis         | Suspicious Files Labs |
+| Incident Response Planning and Execution      | Incident Response Labs |
 | Risk Assessment & Audit, Threat Modeling and Asset Management     | <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">Risk Labs</a>|
 | Scripting and Automation for Log Analysis | Python & SQL Lab|
-| Security Policy Authoring for Access & Authenticator Management | Policy Writing Lab|
+| Security Policy Authoring for Access & Authenticator Management | Policy Writing Labs |
 
 ## Tools
 
