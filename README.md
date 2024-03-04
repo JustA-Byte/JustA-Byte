@@ -27,6 +27,8 @@ My desire to understand how stuff works and a natural protective instinct has dr
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort%20IDS-black?&style=for-the-badge&logoColor=black&color=f9e229" />
+
 </div>
 
 ### Endpoint
