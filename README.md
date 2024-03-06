@@ -17,7 +17,7 @@ My desire to understand how stuff works and a natural protective instinct has dr
 | Suspicious File Investigation and Analysis         | <a href="https://github.com/JustA-Byte/Suspicious-Files-Labs/blob/main/"> Suspicious Files Labs</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/JustA-Byte/Incident-Response-Labs/tree/main"> Incident Response Labs</a> |
 | Risk Assessment & Audit, Threat Modeling and Asset Management     | <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a> |
-| Scripting and Automation for Log Analysis | <a href=""> Python & SQL Lab</a> |
+| Scripting and Automation for Log Analysis | <a href="https://github.com/JustA-Byte/Python-SQL-Labs/tree/main"> Python & SQL Lab</a> |
 | Security Policy Authoring for Access & Authenticator Management | <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a> |
 
 ## Tools
@@ -59,4 +59,4 @@ My desire to understand how stuff works and a natural protective instinct has dr
 - <a href="https://github.com/JustA-Byte/Incident-Response-Labs/tree/main"> Incident Response Labs </a>
 - <a href="https://github.com/JustA-Byte/Suspicious-Files-Labs/blob/main"> Suspicious Files Lab
 - <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a>
-- Python & SQL Lab
+- <a href="https://github.com/JustA-Byte/Python-SQL-Labs/tree/main"> Python & SQL Lab </a>
