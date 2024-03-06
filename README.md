@@ -60,3 +60,7 @@ My desire to understand how stuff works and a natural protective instinct has dr
 - <a href="https://github.com/JustA-Byte/Suspicious-Files-Labs/blob/main"> Suspicious Files Lab
 - <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a>
 - <a href="https://github.com/JustA-Byte/Python-SQL-Labs/tree/main"> Python & SQL Lab </a>
+
+## Upcoming projects
+- Active Directory Labs
+- Honey Pots & Honey Net Labs
