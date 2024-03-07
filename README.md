@@ -19,6 +19,8 @@ My desire to understand how stuff works and a natural protective instinct has dr
 | Risk Assessment & Audit, Threat Modeling and Asset Management     | <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a> |
 | Scripting and Automation for Log Analysis | <a href="https://github.com/JustA-Byte/Python-SQL-Labs/tree/main"> Python & SQL Lab</a> |
 | Security Policy Authoring for Access & Authenticator Management | <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a> |
+| Setting up Active Directory and Upgrading it to a Domain Controler | <a href="https://github.com/JustA-Byte/Active-Directory-Labs/tree/main"> Active Directory Labs </a> |
+| Generate Telemetry on Splunk by Attacking an Active Directory Server  | <a href="https://github.com/JustA-Byte/Active-Directory-Labs/tree/main"> Active Directory Labs </a> |
 
 ## Tools
 
@@ -60,7 +62,7 @@ My desire to understand how stuff works and a natural protective instinct has dr
 - <a href="https://github.com/JustA-Byte/Suspicious-Files-Labs/blob/main"> Suspicious Files Lab
 - <a href="https://github.com/JustA-Byte/Risk-Lab/tree/main">GRC Labs</a>
 - <a href="https://github.com/JustA-Byte/Python-SQL-Labs/tree/main"> Python & SQL Lab </a>
+- <a href="https://github.com/JustA-Byte/Active-Directory-Labs/tree/main"> Active Directory Labs </a>
 
 ## Upcoming projects
-- <a href="https://github.com/JustA-Byte/Active-Directory-Labs"> Active Directory Labs </a>
 - Honey Pots & Honey Net Labs
