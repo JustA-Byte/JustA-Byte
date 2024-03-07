@@ -62,5 +62,5 @@ My desire to understand how stuff works and a natural protective instinct has dr
 - <a href="https://github.com/JustA-Byte/Python-SQL-Labs/tree/main"> Python & SQL Lab </a>
 
 ## Upcoming projects
-- Active Directory Labs
+- <a href="https://github.com/JustA-Byte/Active-Directory-Labs"> Active Directory Labs </a>
 - Honey Pots & Honey Net Labs
